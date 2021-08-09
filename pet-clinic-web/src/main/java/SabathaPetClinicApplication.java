@@ -1,4 +1,4 @@
-package sabatha.spring.sabathapetclinic;
+//package sabatha.spring.sabathapetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

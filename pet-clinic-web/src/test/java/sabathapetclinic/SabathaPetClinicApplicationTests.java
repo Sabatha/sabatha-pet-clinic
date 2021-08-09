@@ -1,4 +1,4 @@
-package sabatha.spring.sabathapetclinic;
+package sabathapetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
